@@ -5,6 +5,6 @@ categories:
   - photo
 author: Ko
 layout: blog
-cover_image: images/shimenawa.jp
+cover_image: images/shimenawa.jpg
 ---
 “Shimenawa” is a huge straw rope hanging in front of the building.
