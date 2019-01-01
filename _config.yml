@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Ko's Photo
 subtitle:
 description:
-keywords:
-author: John Doe
+keywords: camera, photography, SONY, カメラ, 写真,
+author: Ko
 language:
 timezone:
 
@@ -78,3 +78,6 @@ theme: edinburgh
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# Google Analytics Tracking ID
+google_analytics: UA-131535479-1
