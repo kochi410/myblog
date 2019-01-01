@@ -14,8 +14,8 @@ collections:
   fields: # The fields for each document, usually in front matter
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Publish Date", name: "date", widget: "datetime", default: ""}
-    - {label: "Categories", name: "categories", widget: "list", default: ""}
-    - {label: "Author", name: "author", widget: "string", default: "_X_y_z_"}
+    - {label: "Categories", name: "categories", widget: "list", default: "photo"}
+    - {label: "Author", name: "author", widget: "string", default: "Ko"}
     - {label: "Content", name: "body", widget: "markdown"}
     - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
     - {label: "CoverImage", name: "cover_image", widget: "string", default: "images/unsplash.jp"}
