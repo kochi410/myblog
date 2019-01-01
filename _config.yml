@@ -78,6 +78,3 @@ theme: edinburgh
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
-
-# Google Analytics Tracking ID
-google_analytics: UA-131535479-1
