@@ -5,6 +5,6 @@ categories:
   - photo
 author: _X_y_z_
 layout: blog
-Cover: images/redleaves.jp
+Cover: images/redleaves.jpg
 ---
 Taken in Shinjuku Gyoen
